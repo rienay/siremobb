@@ -17,6 +17,7 @@ namespace siremobb
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
+// ini dari hana
         }
     }
 }
